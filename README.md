@@ -1,4 +1,4 @@
-# CyberShield AI
+# ImpersonAI
 
 **Scan. Understand. Protect.** A managed full-stack cybersecurity education and explainable scanning project built with React, TypeScript, Vite, Express, tRPC, Drizzle ORM and MySQL.
 
